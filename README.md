@@ -6,7 +6,7 @@ POC de optimización de campañas de marketing para Mattea Mayorista utilizando 
 ## 1. Introducción
 **Nombre del proyecto:** Mattea Strategist POC  
 **Autor:** Anibal Fernando Oviedo  
-**Materia:**Inteligencia Artificial : Generacion de Prompts
+**Materia:** Inteligencia Artificial : Generacion de Prompts
 
 ## 2. Presentación del problema
 Tras una transición laboral repentina, mi emprendimiento **Mattea Mayorista** (venta de termos y mates desde Posadas, Misiones) pasó de ser un ingreso extra a mi principal fuente de sustento. 
